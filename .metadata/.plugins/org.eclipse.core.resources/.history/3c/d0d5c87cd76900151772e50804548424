@@ -1,0 +1,15 @@
+package com.oct03.classes;
+
+public class VariableDemo {
+	
+	private static int _number;
+	private static char _character = 'a';
+	
+	public static void setNumber(int number){
+		_number = number;
+	}
+	
+	public static void displayNumber(){
+		System.out.printf("\nNumber: %d", _number);
+	}
+}

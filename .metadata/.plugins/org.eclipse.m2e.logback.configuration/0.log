@@ -1,0 +1,18 @@
+2015-09-29 12:37:21,386 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: day1:day1:0.0.1-SNAPSHOT @ C:\LordKrishna\GitHub\satyalearningjava\day1\pom.xml.
+2015-09-29 12:37:26,513 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-29 12:37:26,515 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\main\resources
+2015-09-29 12:37:27,161 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: day1:day1:0.0.1-SNAPSHOT @ C:\LordKrishna\GitHub\satyalearningjava\day1\pom.xml.
+2015-09-29 12:37:27,161 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-29 12:37:27,162 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\test\resources
+2015-09-29 12:38:21,933 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-29 12:38:21,937 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\main\resources
+2015-09-29 12:38:21,939 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-29 12:38:21,940 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\test\resources
+2015-10-03 23:01:11,897 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-03 23:01:11,913 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\main\resources
+2015-10-03 23:01:11,915 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-03 23:01:11,916 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\test\resources
+2015-10-05 20:09:12,919 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 20:09:12,937 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\main\resources
+2015-10-05 20:09:12,940 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-05 20:09:12,941 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\LordKrishna\GitHub\satyalearningjava\day1\src\test\resources

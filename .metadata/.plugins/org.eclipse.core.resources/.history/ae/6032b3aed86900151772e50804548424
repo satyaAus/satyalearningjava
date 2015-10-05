@@ -1,0 +1,19 @@
+package com.oct03.classes;
+
+//class
+public class VariableDemo {
+	
+	//variables
+	private static int _number;
+	private static char _character = 'a';
+	
+	//static method
+	public static void setNumber(int number){
+		_number = number;
+	}
+	
+	//static method
+	public static void displayNumber(){
+		System.out.printf("\nNumber: %d", _number);
+	}
+}

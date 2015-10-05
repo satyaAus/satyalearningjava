@@ -1,0 +1,12 @@
+package com.sep29.main;
+
+import com.sep29.classes.HelloJava;
+
+public class Sep29Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HelloJava.sayHello();
+	}
+
+}

@@ -1,1 +1,5 @@
 .metadata/.lock
+.metadata/version.ini
+*.dat
+.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+*.js
